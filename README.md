@@ -2,6 +2,9 @@
 
 
 # Map 
+<div align=center>
+   <img width="500" height="300" src="https://github.com/wei0914/Handoff-Simulator/blob/main/img/map.png"/>
+</div>
 
 ### Condition
 - Station
@@ -18,3 +21,7 @@
     - turn left     : 1/5
 
 # Result
+<div align=center>
+   <img width="900" height="400" src="https://github.com/wei0914/Handoff-Simulator/blob/main/img/Figure_1.png"/>
+</div>
+
