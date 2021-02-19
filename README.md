@@ -21,6 +21,7 @@
     - turn left     : 1/5
 
 # Result
+### the figure shows the count of handoffs in one day(86400 sec)
 <div align=center>
    <img width="900" height="400" src="https://github.com/wei0914/Handoff-Simulator/blob/main/img/Figure_1.png"/>
 </div>
