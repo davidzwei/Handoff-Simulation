@@ -6,6 +6,7 @@
    <img width="500" height="300" src="https://github.com/wei0914/Handoff-Simulator/blob/main/img/map.png"/>
 </div>
 
+***
 ### Condition
 - Station
   - Pt = 100 dBm
@@ -20,6 +21,7 @@
     - turn right    : 1/5
     - turn left     : 1/5
 
+***
 # Result
 ### the figure shows the count of handoffs in one day(86400 sec)
 <div align=center>
